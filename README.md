@@ -1,7 +1,7 @@
 # .𖥔 ݁ ˖ ✦ hi, i'm aisha .𖥔 ݁ ˖ ✦  
 welcome to my github.  
 i'm a software dev intern (ais jr) at the city of edmonton.  
-**check out my website → [aishakhan.ca](https://aishask.com)**  
+**check out my website → [aishask.com](https://aishask.com)**  
 
             ╱|、
           (˚ˎ 。7  
@@ -30,10 +30,10 @@ i'm a software dev intern (ais jr) at the city of edmonton.
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=aishakhan2103&show_icons=true&theme=calm&hide_border=true&bg_color=00000000" height="200px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=aisha-sk&show_icons=true&theme=calm&hide_border=true&bg_color=00000000" height="200px"/>
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishakhan2103&layout=compact&theme=calm&hide_border=true&bg_color=00000000" height="200px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha-sk&layout=compact&theme=calm&hide_border=true&bg_color=00000000" height="200px"/>
     </td>
   </tr>
 </table>
