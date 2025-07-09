@@ -1,7 +1,7 @@
 # .𖥔 ݁ ˖ ✦ hi, i'm aisha .𖥔 ݁ ˖ ✦  
 welcome to my github.  
 i'm a software dev intern (ais jr) at the city of edmonton.  
-**check out my website → [aishakhan.ca](https://aishakhan.ca)**  
+**check out my website → [aishakhan.ca](https://aishask.com)**  
 
             ╱|、
           (˚ˎ 。7  
