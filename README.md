@@ -9,11 +9,12 @@ i'm a software dev intern (ais jr) at the city of edmonton.
             じしˍ,)ノ            
 
 ## what i do ⋆˚✿˖°  
-- developing internal tools & automation at the city of edmonton  
+- developing internal tools & automation at the city of edmonton (jan 2025 - aug 2025)
 - building web apps with react, flask, and fastapi  
 - working with rest apis, databases, and low-code platforms  
 - experimenting with ai (llms, embeddings, shap explainability)  
-- vp product @ blueprint uofa · dev since 2023  
+- vp product @ blueprint uofa · transitioned from software dev role (2023-2025)
+- student ambassador @ intel 
 
 ## technical knowledge ⋆˚✿˖°  
 - **languages**: python, javascript, c++, sql, html/css  
