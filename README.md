@@ -1,32 +1,37 @@
-# .𖥔 ݁ ˖ ✦ hi, i'm aisha .𖥔 ݁ ˖ ✦  
+# .𖥔 ݁ ˖ ✦ hi, i'm aisha .𖥔 ݁ ˖ ✦
+
 welcome to my github.  
-i'm a software dev intern (ais jr) at the city of edmonton.  
-**check out my website → [aishask.com](https://aishask.com)**  
+i'm a software developer intern at **rbc (rbc amplify 2026)**.  
+**check out my website → [aishask.com](https://aishask.com)**
 
             ╱|、
-          (˚ˎ 。7  
-            |、˜〵          
-            じしˍ,)ノ            
+          (˚ˎ 。7
+            |、˜〵
+            じしˍ,)ノ
 
-## what i do ⋆˚✿˖°  
-- developing internal tools & automation at the city of edmonton (jan 2025 - aug 2025)
-- building web apps with react, flask, and fastapi  
-- working with rest apis, databases, and low-code platforms  
-- experimenting with ai (llms, embeddings, shap explainability)  
-- vp product @ blueprint uofa · transitioned from software dev role (2023-2025)
-- student ambassador @ intel 
+## what i do ⋆˚✿˖°
 
-## technical knowledge ⋆˚✿˖°  
-- **languages**: python, javascript, c++, sql, html/css  
-- **frameworks**: react.js, node.js, flask, fastapi  
-- **tools & platforms**: git, github, firebase, google apps script, docker, outsystems, appsheet, gemini  
-- **database**: mysql, mongodb, firebase  
-- **cloud & devops**: aws, google cloud, agentspace, ci/cd  
-- **ai/ml**: llama 3, shap, openai apis, scikit-learn  
+- building backend services for rbc's global commercial banking platform
+- developing spring boot microservices and distributed backend systems
+- building web apps with react, fastapi, flask, and node.js
+- working with rest apis, databases, cloud infrastructure, and ai-powered applications
+- experimenting with genai, rag, langchain, and agentic workflows
+- vp product @ blueprint uofa, formerly software developer (2023-2025)
+- former intel ai student ambassador
 
-## let's connect ⋆˚✿˖°  
-- **email**: aishasukhailkhan@gmail.com  
-- **linkedin**: [linkedin.com/in/aishasukhailkhan](https://www.linkedin.com/in/aishasukhailkhan)  
+## technical knowledge ⋆˚✿˖°
+
+- **languages**: python, java, javascript, typescript, c++, sql, html/css
+- **frameworks**: spring boot, react, fastapi, flask, node.js
+- **ai/ml**: genai, prompt engineering, rag, langchain, agentic workflows, openai apis
+- **databases**: postgresql, mysql, mongodb, firebase
+- **cloud & devops**: docker, kubernetes, gcp, aws, ci/cd, git, github
+- **tools**: firebase, google apps script, outsystems, appsheet
+
+## let's connect ⋆˚✿˖°
+
+- **email**: aisha.a.khan@rbc.com / aishasuhail2005@gmail.com
+- **linkedin**: [linkedin.com/in/aishasukhailkhan](https://www.linkedin.com/in/aishasukhailkhan)
 
 <table style="border: none;">
   <tr>
