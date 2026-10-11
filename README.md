@@ -1,8 +1,6 @@
 # .𖥔 ݁ ˖ ✦ hi, i'm aisha .𖥔 ݁ ˖ ✦
 
-welcome to my github.  
-i'm a software developer intern at **rbc (rbc amplify 2026)**.  
-**check out my website → [aishask.com](https://aishask.com)**
+welcome to my github 
 
             ╱|、
           (˚ˎ 。7
@@ -23,23 +21,12 @@ i'm a software developer intern at **rbc (rbc amplify 2026)**.
 
 - **languages**: python, java, javascript, typescript, c++, sql, html/css
 - **frameworks**: spring boot, react, fastapi, flask, node.js
-- **ai/ml**: genai, prompt engineering, rag, langchain, agentic workflows, openai apis
+- **ai/ml**: genai, prompt engineering, rag, langchain, agentic workflows
 - **databases**: postgresql, mysql, mongodb, firebase
 - **cloud & devops**: docker, kubernetes, gcp, aws, ci/cd, git, github
 - **tools**: firebase, google apps script, outsystems, appsheet
 
 ## let's connect ⋆˚✿˖°
 
-- **email**: aisha.a.khan@rbc.com / aishasuhail2005@gmail.com
+- **email**: aishasuhail2005@gmail.com
 - **linkedin**: [linkedin.com/in/aishasukhailkhan](https://www.linkedin.com/in/aishasukhailkhan)
-
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=aisha-sk&show_icons=true&theme=calm&hide_border=true&bg_color=00000000" height="200px"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha-sk&layout=compact&theme=calm&hide_border=true&bg_color=00000000" height="200px"/>
-    </td>
-  </tr>
-</table>
