@@ -9,13 +9,15 @@ welcome to my github
 
 ## what i do ⋆˚✿˖°
 
-- building backend services for rbc's global commercial banking platform
+- built a patent-pending global wallets solution @ rbc / summer 2026
 - developing spring boot microservices and distributed backend systems
 - building web apps with react, fastapi, flask, and node.js
 - working with rest apis, databases, cloud infrastructure, and ai-powered applications
 - experimenting with genai, rag, langchain, and agentic workflows
-- vp product @ blueprint uofa, formerly software developer (2023-2025)
+- vp product @ blueprint uofa, formerly software developer 
 - former intel ai student ambassador
+- completed an 8 month co-op w/ the swe team @ city of edmonton
+- worked at an ed-tech startup in dubai
 
 ## technical knowledge ⋆˚✿˖°
 
